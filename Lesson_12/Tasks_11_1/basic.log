@@ -1,0 +1,16 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.2:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.2:5000 (Press CTRL+C to quit)
+INFO:root:Главная страница запрошена
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:15:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:15:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Страница магазина запрошена
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:15:55] "GET /store HTTP/1.1" 200 -
+INFO:root:Страница магазина запрошена
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:15:55] "GET /store HTTP/1.1" 200 -
+INFO:root:Страница категории u запрошена
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:16:11] "GET /store/u HTTP/1.1" 200 -
+INFO:root:Страница категории u запрошена
+INFO:werkzeug:127.0.0.1 - - [25/Jun/2022 15:16:26] "GET /store/u HTTP/1.1" 200 -
